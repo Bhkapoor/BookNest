@@ -7,7 +7,7 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="https://jsdelivr.net"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-      @vite(['resources/css/admin.css', 'resources/js/admin.js'])
+     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
 <body>
 
